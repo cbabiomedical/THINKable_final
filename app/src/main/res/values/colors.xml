@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#5A6ABF</color>
+    <color name="purple_700">#5A6ABF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>bui
+    <color name="heading_color">#23408E</color>
+    <color name="dark">#FF9190</color>
+    <color name="Ldark">#010334</color>
+    <color name="blue">#AEC6CF</color>
+    <color name="Lblue">#34aec5</color>
+    <color name="Bwhite">#ADEFFF</color>
+    <color name="background">#80FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="bluebar">#3451c5</color>
+    <color name="navdark">#1E3375</color>
+    <color name="navlight">#3C4C8E</color>
+
+    <color name="Black">#FF0B0B0B</color>
+    <color name="White">#fcf9f9</color>
+    <color name="Grey">#c2b2b2</color>
+    <color name="Red">#ed2623</color>
+    <color name="Black2">#000000</color>
+
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#673AB7</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPurple">#673AB7</color>
+    <color name="colorBlue">#3F51B5</color>
+
+    <color name="orange">#FF9800</color>
+
+    <color name="darkOrange">#FF5722</color>
+    <color name="shadow_color">#3C3C3C</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <color name="light_grey">#E8E8E8</color>
+
+    <color name="color_gray">#E0E0E0</color>
+    <color name="color_progress_none">#DC1E0B</color>
+    <color name="color_progress_full">#35BA01</color>
+    <color name="green_dark">#115259</color>
+    <color name="green_darkest">#092B2F</color>
+    <color name="green_blue">#428D97</color>
+    <color name="startBtn">#4a5556</color>
+    <color name="txtColor">#ffffff</color>
+    <color name="background1">#000000</color>
+    <color name="redBtnColor">#f00</color>
+    <color name="blueBtnColor">#00f</color>
+    <color name="greenBtnColor">#0f0</color>
+    <color name="yellowBtnColor">#ff0</color>
+    <color name="btnEffectColor">#ffffff</color>
+    <color name="darkblue">#010334</color>
+    <color name="lightblue">#0D559C</color>
+
+<!--    <color name="White">#fff</color>-->
+    <color name="backgroundColor">#191919</color>
+    <color name="alphaWhite">#7affffff</color>
+    <color name="Wood">#C45818</color>
+    <color name="secondWood">#F2A94B</color>
+    <color name="fontOfButtons">#422c10</color>
+</resources>
